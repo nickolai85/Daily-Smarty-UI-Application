@@ -4,3 +4,5 @@ Generating Daily Smarty UI Application
 >react-redux-router
 project name:
 >>npm install
+Creating Searchbar and Recent Posts Components
+>>npm install --save redux-form
