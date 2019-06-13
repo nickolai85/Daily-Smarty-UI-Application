@@ -1,0 +1,6 @@
+Generating Daily Smarty UI Application
+-Generating project 
+>>js-generate
+>react-redux-router
+project name:
+>>npm install
