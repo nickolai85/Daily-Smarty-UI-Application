@@ -5,4 +5,5 @@ Generating Daily Smarty UI Application
 project name:
 >>npm install
 Creating Searchbar and Recent Posts Components
+>>npm install --save react-redux
 >>npm install --save redux-form
