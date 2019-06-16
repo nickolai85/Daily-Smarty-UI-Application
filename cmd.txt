@@ -9,3 +9,5 @@ Creating Searchbar and Recent Posts Components
 >>npm install --save redux-form
 Setting Up Redux Thunk and Connecting the Recent Posts Component to Redux
 >>npm install --save redux-thunk
+Utilizing Axios to Perform a GET Request on the Redux Thunk Action Dispatcher
+>>npm install --save axios
