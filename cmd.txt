@@ -11,3 +11,6 @@ Setting Up Redux Thunk and Connecting the Recent Posts Component to Redux
 >>npm install --save redux-thunk
 Utilizing Axios to Perform a GET Request on the Redux Thunk Action Dispatcher
 >>npm install --save axios
+Creating the Fetch Posts with Query Action
+- Daily Smarty documentation
+https://dailysmarty.docs.apiary.io/#reference/0/query-posts/search-for-posts
