@@ -7,6 +7,8 @@ class RecentPosts extends Component {
         this.props.fetchRecentPosts();
     }
     renderPosts = function(){
+
+        console.log('recentPosts',this.props.recentPosts);
         const posts = this.props.recentPosts.map((post,index)=>{
             if(index < 3){    
             return(
