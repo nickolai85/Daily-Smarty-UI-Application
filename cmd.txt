@@ -14,3 +14,9 @@ Utilizing Axios to Perform a GET Request on the Redux Thunk Action Dispatcher
 Creating the Fetch Posts with Query Action
 - Daily Smarty documentation
 https://dailysmarty.docs.apiary.io/#reference/0/query-posts/search-for-posts
+Utilizing the React Animate Height NPM Package to Add Hover Animations
+>>npm install --save react-animate-height
+-React Animate Height
+https://www.npmjs.com/package/react-animate-height
+-Accessing Hover in React.js
+https://stackoverflow.com/questions/32125708/how-can-i-access-a-hover-state-in-reactjs
