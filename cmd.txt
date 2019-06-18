@@ -20,3 +20,6 @@ Utilizing the React Animate Height NPM Package to Add Hover Animations
 https://www.npmjs.com/package/react-animate-height
 -Accessing Hover in React.js
 https://stackoverflow.com/questions/32125708/how-can-i-access-a-hover-state-in-reactjs
+Applying CSS Grid Styles to the Home Component
+-CSS-Tricks
+https://css-tricks.com/snippets/css/complete-guide-grid/
