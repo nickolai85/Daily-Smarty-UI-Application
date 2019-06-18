@@ -23,3 +23,6 @@ https://stackoverflow.com/questions/32125708/how-can-i-access-a-hover-state-in-r
 Applying CSS Grid Styles to the Home Component
 -CSS-Tricks
 https://css-tricks.com/snippets/css/complete-guide-grid/
+Styling the Results and Result Post Components
+-CSS-Tricks
+https://css-tricks.com/snippets/css/complete-guide-grid/
