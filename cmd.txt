@@ -26,3 +26,6 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 Styling the Results and Result Post Components
 -CSS-Tricks
 https://css-tricks.com/snippets/css/complete-guide-grid/
+Making the Home Screen Mobile Responsive with CSS Media Queries
+-The SAAS Way
+http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32
